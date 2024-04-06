@@ -32,6 +32,7 @@
     }
   },
   "dependencies": {
+    "@headlessui/react": "^1.7.18",
     "@microbit/microbit-universal-hex": "^0.2.2",
     "arraybuffer-loader": "^1.0.6",
     "autoprefixer": "^9.0.1",
